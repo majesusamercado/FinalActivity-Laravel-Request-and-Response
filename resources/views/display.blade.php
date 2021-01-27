@@ -1,4 +1,4 @@
-  @extends('layouts.master')
+@extends('layouts.master')
 @section('Title','Sign Up Form by Colorlib')
 @section('section')
     <div class="main">
